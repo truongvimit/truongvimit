@@ -32,8 +32,8 @@ class SeniorAndroidDeveloper {
     )
     
     val currentGoals = mapOf(
-        "2024" to "Master Compose Multiplatform & KMM",
-        "2025" to "Lead mobile architecture initiatives",
+        "2025" to "Master Compose Multiplatform & KMM",
+        "2026" to "Lead mobile architecture initiatives",
         "Career" to "Tech Lead & Solution Architect"
     )
     
