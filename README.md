@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Truong Vim IT
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Senior+Android+Developer;Mobile+Architecture+Expert;Jetpack+Compose+Specialist;Clean+Code+Advocate;Performance+Optimizer" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Android+Engineer;Mobile+Architecture+Familiar;Jetpack+Compose+Specialist;Clean+Code+Advocate;Performance+Optimizer" alt="Typing Animation" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=truongvimit&color=00d9ff&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
@@ -18,8 +18,8 @@
 
 ```kotlin
 class SeniorAndroidDeveloper {
-    val name = "Truong Vi Mit"
-    val role = "Senior Android Developer"
+    val name = "Truong Vim IT"
+    val role = "Android Engineer"
     val location = "Ho Chi Minh City, Vietnam 🇻🇳"
     val company = "Building scalable mobile solutions"
     
@@ -95,14 +95,11 @@ class SeniorAndroidDeveloper {
 
 ![Koin](https://img.shields.io/badge/Koin-FF6B35?style=for-the-badge)
 ![Dagger hilt](https://img.shields.io/badge/Dagger%20Hilt-2196F3?style=for-the-badge)
-![Dagger](https://img.shields.io/badge/Dagger-FF5722?style=for-the-badge)
 
 ### 🔄 Reactive Programming
 
 ![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Flow](https://img.shields.io/badge/Flow-4CAF50?style=for-the-badge&logo=kotlin&logoColor=white)
-![RxJava](https://img.shields.io/badge/RxJava-B7178C?style=for-the-badge)
-![LiveData](https://img.shields.io/badge/LiveData-4CAF50?style=for-the-badge&logo=android&logoColor=white)
 
 ### 🧪 Testing & Quality
 
@@ -203,7 +200,7 @@ class SeniorAndroidDeveloper {
 - 🚀 **Exploring Kotlin Multiplatform Mobile** for cross-platform solutions
 - ⚡ **Optimizing CI/CD pipelines** and automated testing strategies
 
-### 🎯 2024 Goals
+### 🎯 2025 Goals
 
 - [ ] 🌟 **Architect & deliver** 3+ enterprise mobile applications
 - [ ] 📱 **Master Compose Multiplatform** & Kotlin Multiplatform Mobile
@@ -222,20 +219,19 @@ class SeniorAndroidDeveloper {
 
 | 🏢 Experience Level      | 📊 Years | 🛠️ Expertise                    |
 |--------------------------|----------|----------------------------------|
-| **Mobile Development**   | 5+ years | Android, Kotlin, Java            |
-| **UI/UX Implementation** | 4+ years | Jetpack Compose, Material Design |
-| **Architecture Design**  | 4+ years | Clean Architecture, MVVM, MVI    |
-| **Team Leadership**      | 3+ years | Code Reviews, Mentoring          |
-| **DevOps & CI/CD**       | 3+ years | GitHub Actions, Firebase         |
+| **Mobile Development**   | 3+ years | Android, Kotlin, Java            |
+| **UI/UX Implementation** | 3+ years | Jetpack Compose, Material Design |
+| **Architecture Design**  | 2+ years | Clean Architecture, MVVM, MVI    |
+| **Team Leadership**      | 1+ years | Code Reviews, Mentoring          |
+| **DevOps & CI/CD**       | 1+ years | GitHub Actions, Firebase         |
 
 ### 🌟 Key Achievements
 
 - 📱 **20+ mobile apps** deployed to production
-- 👥 **500K+ users** across published applications
+- 👥 **10M+ users** across published applications
 - 🚀 **99.9% crash-free rate** in production apps
 - 🏆 **Performance optimization** expert - reduced app size by 40%
 - 👨‍💻 **Technical lead** on multiple high-impact projects
-- 🎯 **Mentored 15+ developers** from junior to mid-level
 - 🏅 **Architecture decisions** that scaled to millions of users
 
 </div>
@@ -248,7 +244,7 @@ class SeniorAndroidDeveloper {
 
 ### 🤝 Find me around the web
 
-<a href="https://linkedin.com/in/truongvimit">
+<a href="https://linkedin.com/in/truongvim">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/truongvimit">
