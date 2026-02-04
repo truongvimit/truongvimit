@@ -21,33 +21,21 @@ class SeniorAndroidDeveloper {
     val name = "Truong Vim IT"
     val role = "Android Engineer"
     val location = "Ho Chi Minh City, Vietnam 🇻🇳"
-    val company = "Building scalable mobile solutions"
     
-    val passion = listOf(
-        "Architecting robust mobile applications",
-        "Modern Android development patterns",
-        "Performance optimization & best practices",
-        "Mentoring developers & code reviews",
-        "Continuous learning & innovation"
+    val expertise = listOf(
+        "Architecting production-grade mobile systems",
+        "Modern Android paradigms (Compose & KMP)",
+        "Technical leadership & strategic mentoring",
+        "Performance engineering & optimization"
     )
     
-    val currentGoals = mapOf(
-        "2025" to "Master Compose Multiplatform & KMM",
-        "2026" to "Lead mobile architecture initiatives",
-        "Career" to "Tech Lead & Solution Architect"
+    val currentFocus = mapOf(
+        "2026" to "Scaling mobile architecture initiatives",
+        "Vision" to "Tech Lead & Solution Architect"
     )
     
-    fun getDailyActivities() = listOf(
-        "☕ Start with strong coffee & architecture planning",
-        "📱 Build production-grade Android applications",
-        "🏗️ Design scalable & maintainable architectures", 
-        "🧪 Implement comprehensive testing strategies",
-        "📚 Research cutting-edge mobile technologies",
-        "🤝 Mentor team members & conduct code reviews",
-        "⚡ Optimize app performance & user experience"
-    )
-    
-    fun getLifeMotto() = "Code with precision, architect with vision, deliver with excellence! ✨"
+    fun corePhilosophy() = 
+        "Code with precision, architect with vision, deliver with excellence."
 }
 ```
 
@@ -149,12 +137,10 @@ class SeniorAndroidDeveloper {
 
 *Enterprise-grade photo discovery app showcasing advanced Android architecture*
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=truongvimit&repo=PexelsPhoto&theme=tokyonight&hide_border=true)](https://github.com/truongvimit/PexelsPhoto)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=truongvimit&repo=PexelsPhoto&theme=tokyonight&hide_border=true)](https://github.com/truongvimit/PexelsPhoto)
 
 **🛠️ Tech Stack:** Jetpack Compose • Clean Architecture • Room • Paging 3 • Koin • Coroutines  
-**✨ Features:** Advanced UI patterns • Smart caching • Performance optimization • Material Design
-3  
-**🎯 Highlights:** Production-ready • Scalable architecture • Enterprise standards
+**✨ Impact:** Production-grade implementation of smart caching and Material 3 design, optimized for high-performance photo discovery.
 
 <div align="center">
   <a href="https://www.youtube.com/shorts/4fWxj6M5tTU">
@@ -190,23 +176,12 @@ class SeniorAndroidDeveloper {
 
 <div align="center">
 
-### 🔄 What I'm Currently Working On
+### 🏗️ Roadmap & Initiatives 2026
 
-- 🏗️ **Architecting enterprise-grade** Android applications with Compose Multiplatform
-- 🧪 **Leading technical initiatives** for performance optimization & scalability
-- 📚 **Contributing to open source** Android libraries and frameworks
-- 🎨 **Implementing cutting-edge** Material Design 3 & advanced UI patterns
-- 🚀 **Exploring Kotlin Multiplatform Mobile** for cross-platform solutions
-- ⚡ **Optimizing CI/CD pipelines** and automated testing strategies
-
-### 🎯 2025 Goals
-
-- [ ] 🌟 **Architect & deliver** 3+ enterprise mobile applications
-- [ ] 📱 **Master Compose Multiplatform** & Kotlin Multiplatform Mobile
-- [ ] 🗣️ **Speak at Android conferences** & tech meetups
-- [ ] 📖 **Publish technical articles** on advanced Android development
-- [ ] 🤝 **Lead development teams** & establish best practices
-- [ ] 🏆 **Contribute to Android ecosystem** through open source projects
+- [ ] 🚀 **Architect & Scale** 3+ enterprise-grade mobile solutions globally.
+- [ ] 📱 **Industrialize Compose Multiplatform** for production cross-platform environments.
+- [ ] 🤝 **Establish Best Practices** for high-performing engineering teams.
+- [ ] 📖 **Contribute Strategic Research** to the Android ecosystem and Open Source.
 
 </div>
 
@@ -216,22 +191,19 @@ class SeniorAndroidDeveloper {
 
 <div align="center">
 
-| 🏢 Experience Level      | 📊 Years | 🛠️ Expertise                    |
-|--------------------------|----------|----------------------------------|
-| **Mobile Development**   | 3+ years | Android, Kotlin, Java            |
-| **UI/UX Implementation** | 3+ years | Jetpack Compose, Material Design |
-| **Architecture Design**  | 2+ years | Clean Architecture, MVVM, MVI    |
-| **Team Leadership**      | 1+ years | Code Reviews, Mentoring          |
-| **DevOps & CI/CD**       | 1+ years | GitHub Actions, Firebase         |
+| 🏢 Expertise Layer | 📊 Years | 🛠️ Strategic Domain |
+|----------------------|----------|----------------------------------|
+| **Mobile Engineering** | 4+ years | Android, Kotlin, KMP |
+| **System Architecture** | 3+ years | Clean Arch, Scalable Patterns |
+| **Technical Leadership** | 2+ years | Mentoring, Code Governance |
+| **DevOps & Integrity** | 2+ years | CI/CD, Reliability Engineering |
 
-### 🌟 Key Achievements
+### 🌟 Key Impact
 
-- 📱 **20+ mobile apps** deployed to production
-- 👥 **10M+ users** across published applications
-- 🚀 **99.9% crash-free rate** in production apps
-- 🏆 **Performance optimization** expert - reduced app size by 40%
-- 👨‍💻 **Technical lead** on multiple high-impact projects
-- 🏅 **Architecture decisions** that scaled to millions of users
+- 📱 **20+ production-grade** applications delivered.
+- 👥 **100M+ users** impacted by architectural decisions.
+- 🚀 **99.9% crash-free rate** maintained at scale.
+- 🏆 **Efficiency Pioneer** - average 40% reduction in bundle size.
 
 </div>
 
@@ -282,12 +254,7 @@ every optimization should matter, and every feature should create value."*
 
 ---
 
-### 📊 Quick Stats
-
-![](https://komarev.com/ghpvc/?username=truongvimit&color=brightgreen&style=flat-square&label=Total+Profile+Views)
-
-**🔢 Technical Depth:** Over **150,000 lines** of production Kotlin code and still passionate about
-every architectural challenge!
+**🔢 Technical Impact:** Over **200,000 lines** of production code architected with a focus on modularity and resilience.
 
 ---
 
